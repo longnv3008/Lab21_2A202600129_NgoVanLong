@@ -3,7 +3,8 @@
 **Họ và tên**: Ngô Văn Long
 **Mã học viên**: 2A202600129
 **Ngày nộp**: 2026-05-07  
-**Submission option**: A (lightweight ZIP)
+**Submission option**: A + B (lightweight ZIP + HuggingFace Hub)  
+**HuggingFace Hub**: https://huggingface.co/longnv3008/lab21-qwen2.5-3b-lora-r16
 
 ---
 
